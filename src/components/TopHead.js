@@ -5,7 +5,7 @@ class TopHead extends Component {
       return (
         <div className="TopHead">
           <h1 className="centertext">Hi, I'm Eilleen Zhang.</h1>
-          <img src={MePic} className="profilepic centerimg"/>
+          <img src={MePic} alt="" className="profilepic centerimg"/>
           <p className="centertext" >
               <span style={{backgroundColor: '#FFB48B'}} >
               This is me</span>

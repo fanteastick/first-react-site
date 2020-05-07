@@ -14,11 +14,8 @@ const pastActivities = ['Led (many) high school clubs',
                'Organized + attended (many) hackathons', 
                'Dance Ensemble and Track & Field']
 
-const pastWork = ['Girls Makes Games Fellow: taught young girls \
-                   video game development in Unity',
-                  'BU RISE Research Intern: analyzed power \
-                  consumption data of mobile devices with \
-                  Python (scikit-learn, pandas, matplotlib)']
+const pastWork = ['Girls Makes Games Fellow: taught young girls video game development in Unity',
+                  'BU RISE Research Intern: analyzed power consumption data of mobile devices with Python (scikit-learn, pandas, matplotlib)']
 
 const SimpleList = ({ list }) => (
   <ul className = "bodytextfonts">
@@ -49,9 +46,9 @@ class AboutMe extends Component {
          <SimpleList list={pastWork}/>
 
          <h2>
-         Activities I used to do:
+         Activities I currently do:
          </h2>
-         <SimpleList list={pastActivities}/>
+         <SimpleList list={currActivities}/>
          <h2>
          Activities I used to do:
          </h2>
