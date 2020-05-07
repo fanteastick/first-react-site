@@ -98,3 +98,8 @@ a.button2:active {
   height: 1em;
   display: inline-block;
 }
+
+
+.hoverHighlight:hover {
+  background-color: #8FFFB6;
+}
