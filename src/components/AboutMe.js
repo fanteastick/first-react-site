@@ -48,7 +48,7 @@ class AboutMe extends Component {
          <h2>
          Activities I currently do:
          </h2>
-         <SimpleList list={currActivities}/>
+         <SimpleList list={currActivites}/>
          <h2>
          Activities I used to do:
          </h2>
