@@ -6,6 +6,10 @@ const aboutList = ['Caltech \'23',
 const interests = ['Circuit design', 
                'Embedded systems', 
                'Video game development 🎮']
+const currActivites = ['Caltech Robotics Team', 
+               'Hacktech', 
+               'Yearbook']
+
 const pastActivities = ['Led (many) high school clubs', 
                'Organized + attended (many) hackathons', 
                'Dance Ensemble and Track & Field']
@@ -44,6 +48,10 @@ class AboutMe extends Component {
          </h2>
          <SimpleList list={pastWork}/>
 
+         <h2>
+         Activities I used to do:
+         </h2>
+         <SimpleList list={pastActivities}/>
          <h2>
          Activities I used to do:
          </h2>
