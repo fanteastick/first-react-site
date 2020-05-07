@@ -9,7 +9,7 @@ class ContactMe extends Component{
           Find me online:
         </h2>
         <h2 className="centertext">
-          <a href="https://www.linkedin.com/in/eilleeen-zhang/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.glitch.com/2e20f625-fc10-43eb-b842-35bf491647b6%2FLI-In-Bug.png?v=1566626703040" className="tinycon" /></a>
+          <a href="https://www.linkedin.com/in/eilleeen-zhang/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.glitch.com/2e20f625-fc10-43eb-b842-35bf491647b6%2FLI-In-Bug.png?v=1566626703040" className="tinycon" alt="linkedin!"/></a>
           <a href="https://www.facebook.com/eilleenzhang" target="_blank" rel="noopener noreferrer"><img src="https://cdn.glitch.com/2e20f625-fc10-43eb-b842-35bf491647b6%2Ffacebook.png?v=1566621283220" alt="My Facebook!" className="tinycon" /></a>
           <a href="https://github.com/fanteastick" target="_blank" rel="noopener noreferrer"><img src="https://cdn.glitch.com/2e20f625-fc10-43eb-b842-35bf491647b6%2FGitHub-Mark-120px-plus.png?v=1566626934177" alt="My Github!" className="tinycon" /></a>
           <a href="mailto:tea.riff.ick@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.glitch.com/2e20f625-fc10-43eb-b842-35bf491647b6%2Fmail%20square%20icon.png?v=1566620935270" alt="Email Me!!" className="tinycon" /></a>
