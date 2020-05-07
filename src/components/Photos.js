@@ -26,7 +26,7 @@ class Photos extends Component {
         <div className="Home">
           <TopHead />
           <Navbar />
-          <h3>Some of the pictures I took</h3>
+          <h3>Some pictures I took</h3>
 	      <Gallery photos={photos} />
           <ContactMe />
         </div> 
