@@ -19,7 +19,7 @@ class ContactMe extends Component{
         </h2>
         <hr />
         <p className="centertext">
-          <small>© Eilleen | Made with ❤ by me</small>
+          <small>© Eilleen | Made with ❤ by me | email me at hello@eilleeenz.com</small>
         </p>
       </div>
     );
