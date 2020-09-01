@@ -7,8 +7,8 @@ class Navbar extends Component {
     render() {
       return (
         <div className="Home">
-          <Link to="/" className="hoverHighlight">Home</Link>
-          <Link to="/photos" className="hoverHighlight">Pictures </Link>
+          <Link to="/" className="hoverHighlight">Home · </Link>
+          <Link to="https://blog.eilleeenz.com/" className="hoverHighlight">Blog </Link>
         </div> 
         );
   }
