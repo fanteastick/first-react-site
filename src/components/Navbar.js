@@ -8,7 +8,7 @@ class Navbar extends Component {
       return (
         <div className="Home">
           <Link to="/" className="hoverHighlight">Home · </Link>
-          <Link to="https://blog.eilleeenz.com/" className="hoverHighlight">Blog </Link>
+          <Link to="blog.eilleeenz.com/" className="hoverHighlight">Blog </Link>
         </div> 
         );
   }
