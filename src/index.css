@@ -101,5 +101,7 @@ a.button2:active {
 
 
 .hoverHighlight:hover {
-  background-color: #8FFFB6;
+  /* background-color: #8FFFB6; */
+  -webkit-text-decoration: #FFB48B double underline;
+  text-decoration: #FFB48B double underline;
 }
