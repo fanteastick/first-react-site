@@ -105,3 +105,9 @@ a.button2:active {
   -webkit-text-decoration: #FFB48B double underline;
   text-decoration: #FFB48B double underline;
 }
+
+.hoverHighlight:visited {
+  color: black;
+  -webkit-text-decoration: #FFB48B underline;
+  text-decoration: #FFB48B underline;
+}
