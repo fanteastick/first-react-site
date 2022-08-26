@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import MePic from "./eilleen-google-copy.jpg";
+import MePic from "./pic-of-me-2022.png";
 class TopHead extends Component {
     render() {
       return (
@@ -8,7 +8,7 @@ class TopHead extends Component {
           <img src={MePic} alt="" className="profilepic centerimg"/>
           <p className="centertext" >
               <span style={{backgroundColor: '#FFB48B'}} >
-              This is me</span>
+              This is what I look like ☝️</span>
           </p>  
         </div> 
         );

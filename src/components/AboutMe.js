@@ -1,21 +1,21 @@
 import React, { Component } from 'react';
 
-const aboutList = ['Caltech \'23', 
-               'Passionate about empowering women in STEM', 
-               'Aspiring electrical engineer! 🏫']
-const interests = ['Circuit design', 
-               'Embedded systems', 
-               'Video game development 🎮']
+const aboutList = ['Caltech EE senior', 
+               'Aspiring engineer based in SF/LA', 
+               'Women in STEM 💪']
+const interests = ['Robots', 
+               'Circuits', 
+               'Blockchain']
 const currActivites = ['Caltech Robotics Team', 
-               'Hacktech', 
-               'Yearbook']
+               'Photography & Yearbook', 
+               'Caltech Blockchain club']
 
-const pastActivities = ['Led (many) high school clubs', 
-               'Organized + attended (many) hackathons', 
-               'Dance Ensemble and Track & Field']
+const pastActivities = ['Avery House socD (lots of fun)', 
+               'Organized + attended hackathons', 
+               'Dance, track & field']
 
-const pastWork = ['Girls Makes Games Fellow: taught young girls video game development in Unity',
-                  'BU RISE Research Intern: analyzed power consumption data of mobile devices with Python (scikit-learn, pandas, matplotlib)']
+const pastWork = ['Intern @ Intel: static timing analysis',
+                  'Intern @ NASA JPL: software/firmware for humidity-sensing radar']
 
 const SimpleList = ({ list }) => (
   <ul className = "bodytextfonts">
